@@ -1,3 +1,5 @@
+[![Build Actions Status](https://github.com/JanSimek/routing-homework/actions/workflows/build.yaml/badge.svg)](https://github.com/JanSimek/routing-homework/actions) [![codebeat badge](https://codebeat.co/badges/9c45fb2e-ddd6-49e8-a43d-339a80831fe8)](https://codebeat.co/projects/github-com-jansimek-routing-homework-master)
+
 # Routing Homework
 
 ### Getting started
