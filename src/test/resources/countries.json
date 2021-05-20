@@ -1,0 +1,53 @@
+[
+  {
+    "cca3": "CZE",
+    "test": "This field won't be deserialized",
+    "borders": [
+      "AUT",
+      "DEU",
+      "PLN",
+      "SVK"
+    ]
+  },
+  {
+    "cca3": "DEU",
+    "borders": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ]
+  },
+  {
+    "cca3": "AUT",
+    "borders": [
+      "CZE",
+      "DEU",
+      "HUN",
+      "ITA",
+      "LIE",
+      "SVK",
+      "SVN",
+      "CHE"
+    ]
+  },
+  {
+    "cca3": "SVK",
+    "borders": [
+      "AUT",
+      "CZE",
+      "HUN",
+      "POL",
+      "UKR"
+    ]
+  },
+  {
+    "cca3": "ISL",
+    "borders": []
+  }
+]
